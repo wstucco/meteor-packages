@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mikamai:bitcore',
-  version: '0.1.2',
+  version: '0.1.3',
   summary: 'A pure and powerful JavaScript Bitcoin library.',
   git: 'https://github.com/wstucco/meteor-packages.git',
   documentation: 'README.md'
