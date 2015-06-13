@@ -12,11 +12,11 @@ Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
 
   api.export('bitcore');
-  api.addFiles('bitcore.js');
+  api.addFiles('bitcore.js', 'server');
 });
 
 Package.onTest(function(api) {
   api.use('tinytest');
   api.use('mikamai:bitcore');
-  api.addFiles('bitcore-tests.js');
+  api.addFiles('bitcore-tests.js', 'server');
 });
