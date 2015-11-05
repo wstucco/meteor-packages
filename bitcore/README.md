@@ -3,9 +3,9 @@ Bitcore
 
 A pure and powerful JavaScript Bitcoin library.
 
-## Principles
+### DEPRECATION NOTICE
 
-Bitcoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Bitcoin network allows for highly resilient bitcoin infrastructure, and the developer community needs reliable, open-source tools to implement bitcoin apps and services.
+This Meteor package is no longer being maintained. Use [frabrunelle:bitcore-lib](https://atmospherejs.com/frabrunelle/bitcore-lib) instead. It works on both the client and the server.
 
 ## Get Started
 
